@@ -7,6 +7,4 @@ public class Test {
 
 }
 
-class Car{
 
-}
